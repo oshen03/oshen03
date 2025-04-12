@@ -37,7 +37,7 @@ I bridge the gap between:
 ---
 
 ### 📈 GitHub Stats  
-[![Oshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Oshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/oshen03)
 
 ---
 
