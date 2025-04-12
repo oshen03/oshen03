@@ -37,11 +37,10 @@ I bridge the gap between:
 ---
 
 ### 📈 GitHub Stats  
-[![Oshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/oshen03)
+[![Oshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=radical)](https://github.com/oshen03)
 
 ---
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshen-sathsara03/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oshensathsara2003@gmail.com)
-
