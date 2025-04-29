@@ -26,6 +26,7 @@ Combining logical code with aesthetic design to build meaningful solutions.
 ### 🎓 Currently Learning
 - Full-stack development workflows
 - UI/UX design principles
+- Object Oriented Design
 
 ---
 
@@ -37,7 +38,8 @@ I bridge the gap between:
 ---
 
 ### 📈 GitHub Stats  
-[![Oshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=radical)](https://github.com/oshen03)
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=radical" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&layout=compact&theme=radical" />
 
 ---
 
