@@ -30,13 +30,6 @@ Combining logical code with aesthetic design to build meaningful solutions.
 
 ---
 
-### 🎨 Design-to-Code Philosophy
-I bridge the gap between:  
-`Design Mockups` ➡️ `Pixel-Perfect Implementation`  
-`Creative Vision` ➡️ `Functional Applications`
-
----
-
 ### 📈 GitHub Stats  
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=radical" />
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&layout=compact&theme=radical" />
