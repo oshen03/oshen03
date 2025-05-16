@@ -39,8 +39,7 @@ Combining logical code with aesthetic design to build meaningful solutions.
 
 ### 💻 Most Used Languages 
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&hide=markdown,yaml,shell,scss&layout=donut-vertical&theme=radical&custom_title=Code%20Distribution&langs_count=8)
-
+![Language Stats](https://raw.githubusercontent.com/oshen03/traitgen-shop/main/generated_stats/langs.svg?v=1)
 ---
 
 ### 🤝 Let's Connect!
