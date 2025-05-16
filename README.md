@@ -40,6 +40,7 @@ Combining logical code with aesthetic design to build meaningful solutions.
 ### 💻 Most Used Languages 
 
 ![Language Stats](https://raw.githubusercontent.com/oshen03/traitgen-shop/main/generated_stats/langs.svg?v=1)
+
 ---
 
 ### 🤝 Let's Connect!
