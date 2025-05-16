@@ -32,9 +32,16 @@ Combining logical code with aesthetic design to build meaningful solutions.
 
 ### 📈 GitHub Stats  
 
-<img width="45%" align="left"  src="https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=radical&count_private=true">
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&hide=markdown,yaml,shell,scss&layout=donut-vertical&theme=radical&custom_title=Code%20Distribution&langs_count=10)
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=radical&count_private=true" style="width: 100%">
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&hide=markdown,yaml,shell,scss&layout=donut-vertical&theme=radical&custom_title=Code%20Distribution&langs_count=10" style="width: 100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
