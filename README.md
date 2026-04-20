@@ -1,14 +1,32 @@
 <div align="center">
 
-# 👋 Hi, I'm Oshen!  
-**Software Engineering Student | Developer & Creative Designer**   
-*Combining logical code with aesthetic design to build meaningful solutions.*
+# Oshen Sathsara Hettiwana
+**System Developer | Digital Marketing Specialist | Creative Designer**
+
+*"To build a digital realm free from the constraints of physical laws, allowing science and innovation to develop without boundaries."*
 
 </div>
 
 ---
 
+👋 **Hi! I'm Oshen.** I am a Software Engineering undergraduate pursuing a BSc Honours from Birmingham City University, based in Kegalle, Sri Lanka. I combine logical code, aesthetic design, and strategic thinking to build meaningful digital solutions. 
+
+As a versatile **System Developer, Graphic Designer, and Video Editor**, I bring a multidisciplinary approach to technology. My professional background is rooted in developing comprehensive IT solutions and driving digital marketing strategies for established brand names. Beyond technical execution, I leverage strong **management skills** to oversee projects from conceptualization to deployment, ensuring that digital architecture aligns perfectly with overarching business and branding goals.
+
+---
+
+## 🚀 Professional Experience & Expertise
+
+* **System Development:** Designing, developing, and maintaining scalable full-stack web applications, management platforms, and secure databases that streamline operations for diverse organizations.
+* **Digital Marketing & Brand IT Solutions:** Bridging the gap between technical infrastructure and market presence by delivering end-to-end digital solutions and executing high-impact marketing strategies for brand names.
+* **Multimedia Production:** Operating as a dedicated graphic designer and video editor to create highly engaging visual assets. This includes utilizing advanced design software and AI tools to produce professional marketing content, branding materials, and multimedia presentations.
+* **Project & Infrastructure Management:** Leading digital transformation initiatives through effective management. Experienced in overseeing enterprise infrastructure, including custom domain setups, secure network configurations, and the successful delivery of complex technical projects.
+
+---
+
 ## 🛠️ Tech Stack  
+
+*My technical foundation spans full-stack web development, multimedia design, and systems management, with a strong focus on building responsive, user-centric applications using **PHP, MySQL, Laravel, and Bootstrap**.*
 
 <div align="center">
 
@@ -52,9 +70,9 @@
 
 <div align="center">
 
-🔹 Full-stack development workflows  
-🔹 UI/UX design principles  
-🔹 Object Oriented Design  
+🔹 Advanced Full-Stack Development Workflows  
+🔹 Enterprise UI/UX Design Principles  
+🔹 Object-Oriented Design & Software Architecture  
 
 </div>
 
@@ -67,10 +85,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oshen Sathsara Hettiwana GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&hide=markdown,yaml,shell,scss&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&hide=markdown,yaml,shell,scss&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&langs_count=8" alt="Oshen Sathsara Top Languages" />
     </td>
   </tr>
 </table>
@@ -92,4 +110,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=oshen03&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
-</div>  
+</div>
