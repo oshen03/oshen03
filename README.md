@@ -93,8 +93,6 @@ As a versatile **System Developer, Graphic Designer, and Video Editor**, I bring
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshen03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>  
 
 ---
