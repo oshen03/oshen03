@@ -1,111 +1,89 @@
 <div align="center">
 
-# Oshen Sathsara Hettiwana
-**System Developer | Digital Marketing Specialist | Creative Designer**
+# ⟨ ⚡ OSHEN SATHSARA HETTIWANA ⚡ ⟩
 
-*"To build a digital realm free from the constraints of physical laws, allowing science and innovation to develop without boundaries."*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=❯+Digital+Realities+Architect_;❯+System+Developer_;❯+Creative+Designer_;❯+Strategic+Leader_" alt="Typing SVG" />
+</a>
 
-</div>
+> ❖ *“Constructing digital realms free from the constraints of physical laws,*<br>
+> *allowing science and innovation to develop without boundaries.”* ❖
 
----
+<br>
 
-👋 **Hi! I'm Oshen.** I am a Software Engineering undergraduate pursuing a BSc Honours from Birmingham City University, based in Kegalle, Sri Lanka. I combine logical code, aesthetic design, and strategic thinking to build meaningful digital solutions. 
-
-As a versatile **System Developer, Graphic Designer, and Video Editor**, I bring a multidisciplinary approach to technology. My professional background is rooted in developing comprehensive IT solutions and driving digital marketing strategies for established brand names. Beyond technical execution, I leverage strong **management skills** to oversee projects from conceptualization to deployment, ensuring that digital architecture aligns perfectly with overarching business and branding goals.
-
----
-
-## 🚀 Professional Experience & Expertise
-
-* **System Development:** Designing, developing, and maintaining scalable full-stack web applications, management platforms, and secure databases that streamline operations for diverse organizations.
-* **Digital Marketing & Brand IT Solutions:** Bridging the gap between technical infrastructure and market presence by delivering end-to-end digital solutions and executing high-impact marketing strategies for brand names.
-* **Multimedia Production:** Operating as a dedicated graphic designer and video editor to create highly engaging visual assets. This includes utilizing advanced design software and AI tools to produce professional marketing content, branding materials, and multimedia presentations.
-* **Project & Infrastructure Management:** Leading digital transformation initiatives through effective management. Experienced in overseeing enterprise infrastructure, including custom domain setups, secure network configurations, and the successful delivery of complex technical projects.
-
----
-
-## 🛠️ Tech Stack  
-
-*My technical foundation spans full-stack web development, multimedia design, and systems management, with a strong focus on building responsive, user-centric applications using **PHP, MySQL, Laravel, and Bootstrap**.*
-
-<div align="center">
-
-### Frontend & Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend & Database
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud & AI Foundations
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![OCI Foundations Certified](https://img.shields.io/badge/OCI_Foundations_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![OCI AI Certified](https://img.shields.io/badge/OCI_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Technologies
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Design Tools
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-</div>  
-
----
-
-## 🎓 Currently Learning  
-
-<div align="center">
-
-🔹 Advanced Full-Stack Development Workflows  
-🔹 Enterprise UI/UX Design Principles  
-🔹 Object-Oriented Design & Software Architecture  
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshen-sathsara03/)
+[![Gmail](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshensathsara2003@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=oshen03&style=for-the-badge&color=000000&label=Views)](https://github.com/oshen03)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats  
+### 🏛️ Digital Architect's Profile
 
-<div align="center">
+I am a Software Engineering undergraduate pursuing a BSc Honours from Birmingham City University, based in Kegalle, Sri Lanka. I function as a multidisciplinary **System Developer, Graphic Designer, and Video Editor**, approaching every project as an architect would: blending logic, aesthetic, and strategy.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oshen03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oshen Sathsara Hettiwana GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshen03&hide=markdown,yaml,shell,scss&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&langs_count=8" alt="Oshen Sathsara Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>  
+My professional background includes leading digital marketing initiatives for major brands and developing comprehensive IT solutions. I leverage robust management skills to oversee projects from conceptualization to deployment, ensuring every digital structure serves a powerful business and branding goal.
 
 ---
 
-## 🤝 Let's Connect!  
+### 🚀 Strategic Roles
 
-<div align="center">
+<details open>
+  <summary><b>Building Systems and Business Ecosystems</b></summary>
+  <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshen-sathsara03/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshensathsara2003@gmail.com)
+*   🏢 **Co-Founding Director @ Win Win Solutions:** Established and currently leading a multi-service company that integrates professional construction, creative design, and comprehensive digital services.
+*   📈 **IT & Digital Marketing Assistant Intern:** Managing professional infrastructure, conducting digital development workshops and executing branding strategies.
+
+</details>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=oshen03&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+### 🛠️ The Tech Arsenal: Digital Building Blocks
 
+My foundation spans full-stack development, multimedia design, and systems management, focused on responsive, user-centric applications.
+
+<div align="center">
+
+**Development & System Foundations**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Synergy: Design & Strategy**<br>
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Strategic%20Digital%20Marketing-FFD700?style=flat-square)
+![Project Management](https://img.shields.io/badge/Technical%20Project%20Management-00FF7F?style=flat-square)
+
+</div>
+
+---
+
+### 📈 Global Code Pulse
+
+<div align="center">
+  <h3>Contributions and Impact</h3>
+  <p>Dedicated full-stack contributor with a focus on web applications and responsive system design, committing actively across repositories using PHP, Laravel, and React Native. Leveraging diverse skills to build robust digital solutions.</p>
+</div>
+
+---
+
+### 💡 Focused Evolution
+
+- 🔭 Mastering Advanced Full-Stack Workflows
+- 🎨 Refining Enterprise UI/UX Design
+- 🏗️ Deepening knowledge in Software Architecture & Object-Oriented Design
+
+<br>
+
+<div align="center">
+  <i>Let's construct something amazing!</i>
 </div>
