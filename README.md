@@ -3,7 +3,7 @@
 # ⟨ ⚡ OSHEN SATHSARA HETTIWANA ⚡ ⟩
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=❯+Digital+Realities+Architect_;❯+System+Developer_;❯+Creative+Designer_;❯+Strategic+Leader_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Digital+Realities+Architect;System+Developer;Creative+Designer;Strategic+Leader" alt="Typing SVG" />
 </a>
 
 > ❖ *“Constructing digital realms free from the constraints of physical laws,*<br>
