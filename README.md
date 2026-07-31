@@ -12,7 +12,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshen-sathsara03/)
-[![Gmail](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshensathsara2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.oshen@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=oshen03&style=for-the-badge&color=000000&label=Views)](https://github.com/oshen03)
 
 </div>
